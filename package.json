@@ -1,5 +1,5 @@
 {
-  "name": "randomPasswordGeneratorSimple",
+  "name": "randomPasswordGeneratorSimpleTest2024",
   "version": "1.0.0",
   "description": "Randomly generate password modules. A combination of uppercase, lowercase and numbers",
   "main": "randomPasswordGenerator.js",
